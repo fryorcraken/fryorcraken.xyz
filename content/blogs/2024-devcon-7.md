@@ -1,7 +1,6 @@
 ---
 title: "Devcon 7 Bangkok Presentations"
-date: 2024-11-10T00:00:00+00:00
-draft: true
+date: 2024-10-30T00:00:00+00:00
 author: "fryorcraken"
 tags:
   - Presentations
@@ -58,7 +57,7 @@ Date: Wednesday, 13 Nov
 
 Time: 17:00 to 17:10
 
-Room: Stage 4 
+Room: Stage 4
 
 Format: Lightning Talk (5"Talk+2"Q&A)
 
