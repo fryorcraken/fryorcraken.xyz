@@ -48,7 +48,7 @@ toc: true
 - Time: 17:00 to 17:10
 - Room: Stage 4
 - Format: Lightning Talk (5"Talk+2"Q&A)
-- Announcements: ?
+- Announcements: [Join me](https://devcon.org/en/sea/schedule/PREYYS/)
 - Slides: TBD
 - Video: ?
 
@@ -58,7 +58,7 @@ toc: true
 - Time: 14:30 to 16:00
 - Room: Classroom C
 - Format: Workshop 1h30
-- Announcements: ?
+- Announcements: [Join me](https://devcon.org/en/sea/schedule/ZFJXFP/)
 - Slides: TBD
 - Video: ?
 
