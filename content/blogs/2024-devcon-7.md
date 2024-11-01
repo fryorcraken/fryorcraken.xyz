@@ -69,8 +69,8 @@ toc: true
 - Location: U Sathorn Bangkok
 - Registration: [Luma](https://lu.ma/d7kx0r2s)
 
-### TBC
+### Making Peer-To-Peer Networks Reliable
 
-- Time: ~14:00 TBC
+- Time: 15:30 to 16:30
 - Slides: TBD
 - Video: ?
