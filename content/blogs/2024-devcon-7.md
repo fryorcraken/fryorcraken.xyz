@@ -45,7 +45,7 @@ toc: true
 ### Bringing peer-to-peer networks to ALL the peers
 
 - Date: Wednesday, 13 Nov
-- Time: 17:00 to 17:10
+- Time: 17:10 to 17:20
 - Room: Stage 4
 - Format: Lightning Talk (5"Talk+2"Q&A)
 - Announcements: [Join me](https://devcon.org/en/sea/schedule/PREYYS/)
