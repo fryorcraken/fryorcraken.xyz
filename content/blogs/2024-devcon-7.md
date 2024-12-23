@@ -23,7 +23,7 @@ toc: true
 - Time: 15:30 to 16:00
 - Announcements: [Twitter](https://x.com/Codex_storage/status/1849536546430464431)
 - Slides: None (Panel)
-- Video: ?
+- Video: [YouTube](https://www.youtube.com/watch?v=Qi5EZex3WpM&list=PL6IfS1ZWlbTB9WeDHOv2-nvpiaZIQiKOE&index=3)
 
 ## Parallel Society Congress: Bangkok
 
@@ -33,9 +33,8 @@ toc: true
 
 ### Technology for Parallel Societies: State of the Art and Future
 
-- Time: TBC
-- Announcements: ?
-- Slides: TBD
+- Announcements: [Twitter](https://x.com/Logos_network/status/1852971229222683126)
+- Slides: [PDF](/docs/PSC_-_Technology_for_Parallel_Societies_State_of_the_Art_and_Future.pdf)
 - Video: ?
 
 ## Devcon 7
@@ -49,8 +48,8 @@ toc: true
 - Room: Stage 4
 - Format: Lightning Talk (5"Talk+2"Q&A)
 - Announcements: [Join me](https://devcon.org/en/sea/schedule/PREYYS/)
-- Slides: TBD
-- Video: ?
+- Slides: [Google Drive](https://drive.google.com/file/d/1yjjc__aTeG8PJhisw5J2XfyrdF0tu2OI/view)
+- Video: [YouTube](https://www.youtube.com/watch?v=8qAn_5NTQZY)
 
 ### RLNv2: enhanced spam protection for all peer-to-peer networks
 
@@ -59,8 +58,8 @@ toc: true
 - Room: Classroom C
 - Format: Workshop 1h30
 - Announcements: [Join me](https://devcon.org/en/sea/schedule/ZFJXFP/)
-- Slides: TBD
-- Video: ?
+- Slides: [Google Drive](https://drive.google.com/file/d/17x2lMNSNLoeu0Q0z9SNHtLI-zBk_DdIB/view)
+- Video: [YouTube](https://www.youtube.com/watch?v=EH6zUu6AzlQ)
 
 ## Libp2p Day @ Bangkok 2024
 
@@ -72,5 +71,5 @@ toc: true
 ### Making Peer-To-Peer Networks Reliable
 
 - Time: 15:30 to 16:30
-- Slides: TBD
-- Video: ?
+- Slides: [PDF](/docs/Libp2p_Day_2024_-_Making_peer-to-peer_networks_reliable.pdf)
+- Video: [YouTube](https://www.youtube.com/watch?v=D9NzMbjNEO4)
